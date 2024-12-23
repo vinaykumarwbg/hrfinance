@@ -7,13 +7,12 @@ demo <br>Author-Vinaykumar (Bikmal)
 
 ## Installation
 
-```sh
+sh
 npm i
-```
 
 ## Linting
 
-```sh
+ ```sh
 npm run lint
 ```
 
