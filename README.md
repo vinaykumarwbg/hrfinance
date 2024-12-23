@@ -1,5 +1,5 @@
 # Hrfinance-demo
-demo <br>Author-Vinaykumar
+demo <br>Author-Vinaykumar (Bikmal)
 
 ## Environments
 - Preview: https://main--hrfinance--vinaykumarwbg.hlx.page/
